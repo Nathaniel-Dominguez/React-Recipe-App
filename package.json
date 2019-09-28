@@ -2,7 +2,7 @@
   "name": "recipe-search",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Nathaniel-Dominguez/React-Recipe-App.git",
+  "homepage": "https://nathaniel-dominguez.github.io/React-Recipe-App",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.1.1",
